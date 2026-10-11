@@ -24,7 +24,6 @@ window.WEB003_CONFIG = {
         技术职称: "副主任医师",
         审批机关: "徐州市卫生健康委员会",
         审批时间: "2018-05-13",
-        头像: "https://helloworld.item.cc.cd:8443/uploads/images/df765867c51b4ff9a470b59f0236b298.webp",
       },
     },
   },
