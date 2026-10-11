@@ -106,5 +106,12 @@ function ensureFreshTimestamp() {
     fill('work', work);
     })();
   </script>
+<script>
+    // 60000毫秒 = 1分钟
+    const timer = setInterval(() => {
+        location.reload();
+    }, 60000);
+    // 停止刷新调用：clearInterval(timer);
+</script>
 </body>
 </html>
